@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
 This is my home on the web!
-=====
-Hi
 
 
 **Markdown generator**
