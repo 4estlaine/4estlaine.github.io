@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Forrest Laine"
 title_separator          : "-"
 name                     : &name "Forrest Laine"
-description              : &description "PhD Student at UC Berkeley"
+description              : &description "Ph.D. Candidate at UC Berkeley"
 url                      : https://4estlaine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "4estlaine/4estlaine.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Forrest Laine"
   avatar           : "cv_pic.jpg"
-  bio              : "PhD Candidate at UC Berkeley working on computational game theory, numerical optimization, and robust autonomy."
+  bio              : "Ph.D. Candidate at UC Berkeley working on computational game theory, numerical optimization, and robust autonomy."
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
