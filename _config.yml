@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Forrest Laine"
-  avatar           : "profile.png"
+  avatar           : "cv_pic.png"
   bio              : "PhD Candidate at UC Berkeley working on computational game theory, numerical optimization, and robust autonomy."
   location         : "Berkeley, CA"
   employer         :
