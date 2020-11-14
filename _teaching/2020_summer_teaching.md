@@ -1,7 +1,7 @@
 ---
 title: "Teaching Professor"
 collection: teaching
-type: "Undergraduate course"
+type: "EECS16B"
 permalink: /teaching/2020-summer-eecs16b
 venue: "University of California, Berkeley, EECS"
 date: 2020-06-15

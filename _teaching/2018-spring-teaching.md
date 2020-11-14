@@ -1,7 +1,7 @@
 ---
 title: "Head Teaching Assistant"
 collection: teaching
-type: "Graduate course"
+type: "EE291E"
 permalink: /teaching/2018-spring-ee291e
 venue: "University of California, Berkeley, EECS"
 date: 2018-01-21
