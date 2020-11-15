@@ -83,10 +83,10 @@ author:
   name             : "Forrest Laine"
   avatar           : "cv_pic.jpg"
   bio              : "Ph.D. Candidate at UC Berkeley working on computational game theory, numerical optimization, and robust autonomy."
-  location         : "Berkeley, CA"
+  location         : "Oakland, CA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=raa7w5YAAAAJ&hl=en&oi=ao"
+  googlescholar    : 
   email            :
   researchgate     :  
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "4estlaine"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
