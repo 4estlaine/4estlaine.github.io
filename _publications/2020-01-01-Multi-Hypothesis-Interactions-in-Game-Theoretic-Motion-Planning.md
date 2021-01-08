@@ -5,7 +5,7 @@ permalink: /publication/2020-01-01-Multi-Hypothesis-Interactions-in-Game-Theoret
 excerpt: 'Submitted to ICRA, 2021'
 date: 2020-01-01
 venue: 'Submitted to ICRA, 2021'
-citation: ' Forrest Laine,  David Fridovich-Keil,  Chih-Yuan Chiu,  Claire Tomlin, &quot;Multi-Hypothesis Interactions in Game-Theoretic Motion Planning.&quot; Submitted to ICRA, 2021, 2020.'
+citation: ' Forrest Laine,  David Fridovich-Keil,  Chih-Yuan Chiu,  Claire Tomlin, &quot;Multi-Hypothesis Interactions in Game-Theoretic Motion Planning.&quot; Submitted to ICRA, 2021.'
 ---
 Submitted to ICRA, 2021
 
