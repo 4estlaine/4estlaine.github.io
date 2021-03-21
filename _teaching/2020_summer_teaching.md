@@ -1,5 +1,5 @@
 ---
-title: "Teaching Professor"
+title: "Instructor"
 collection: teaching
 type: "EECS16B"
 permalink: /teaching/2020-summer-eecs16b
